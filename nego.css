@@ -1,0 +1,11 @@
+@font-face{
+  font-family: NegoFont;
+  src: url(Fontspring-DEMO-universo-regular.otf);
+}
+
+.assistant-nego {
+  font-family: "Assistant", sans-serif;
+  font-optical-sizing: auto;
+  /*font-weight: ;*/
+  font-style: normal;
+}
